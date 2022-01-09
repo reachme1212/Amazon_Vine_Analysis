@@ -25,13 +25,11 @@ Created four tables to load the data into Pgadmin
 
 **Results:**
 
-      * Total Vine program review in the dataset is 497, Total non-vine dataset 120825.
-
-
+    * Total Vine program review in the dataset is 497, Total non-vine dataset 120825.
 
     * 220 Vine reviews are 5 star and 74445 non-vine reviews are 5star reviews
 
-![Image from analysis](resources/Excl%.PNG)
+![Image from analysis](resources/Excl.PNG)
 
     * Percentage of Vine reviews that are 5 star is 0.44 that is 44% out of 497 total vine reviews, compared to the non-vine reviews that is 0.61 (61%). The paid program’s five star review percentage is less compared to unpaid program's five star review, although the total paid (497) and unpaid (120825) are different in size, I have also analyzed all other stars ,to make sure if there is any bias, from the display above , I could say there is no noticeable bias between paid and unpaid reviews , However one could say there are very less 1 star reviews in Vine program compared to non-Vine. 
 
