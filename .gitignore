@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+vine_table.csv
 
 # C extensions
 *.so
